@@ -75,6 +75,5 @@ Please cite the following paper if you use our code or datasets:
   author={Jaeri Lee and U Kang},
   booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)}, 
   title={Context-aware Sequential Bundle Recommendation via User-specific Representations}, 
-  year={2025},
-  doi={10.1145/3746252.3761276}}
+  year={2025}}
 ```
