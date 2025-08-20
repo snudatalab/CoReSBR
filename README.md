@@ -67,3 +67,14 @@ AllRecipes dataset is a newly constructed dataset crawled from AllRecipes.com.
 The original datasets are available at:
 - Foods: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 - Movielens 10M: https://grouplens.org/datasets/movielens
+
+## Citation
+Please cite the following paper if you use our code or datasets:
+```
+@INPROCEEDINGS{CoReSBR,
+  author={Jaeri Lee and U Kang},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)}, 
+  title={Context-aware Sequential Bundle Recommendation via User-specific Representations}, 
+  year={2025},
+  doi={10.1145/3746252.3761276}}
+```
